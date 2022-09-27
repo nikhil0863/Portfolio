@@ -203,7 +203,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://www.agdelta.com/wp-content/uploads/2018/06/website-parallax-background-C.jpg") no-repeat center;
+    background: url("https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/84366486/original/c490739223326be0ddccbf3bd1d7381ce7926fa5/do-stunning-background-videos-for-your-website.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
